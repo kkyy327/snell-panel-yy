@@ -16,7 +16,8 @@
     {
       "binding": "DB",
       "database_name": "snell-panel",
-      "database_id": "60bbe93d-ac6e-4826-8c31-924cfc5dc0d3",
+      "database_id": "dfdd601c-e7ae-4d0b-82b2-620a77abd224
+",
       "migrations_dir": "drizzle"
     }
   ],
